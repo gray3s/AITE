@@ -110,3 +110,21 @@ suffering from the extended ongoing catastrophe that is AITE.
 
 The other remaining hallucination issue is the belief that humans can 
 interact with agentic AI, by prose, in any other way than by "vibe-coding". 
+
+Coda, 
+20260913 1710MT
+
+So I developed all of this AITE theory with Codex over the course of several, 
+many hours this afternoon. 
+
+We even worked-out a quick and dirty "pseudocode" implemenation using 
+an Excel workbook, with individual worksheet pages for groups of relevant functions. 
+Where the worksheept pages contain cells for Matlab-style objects which can 
+be 2D pointers for any object resident in memory or collection thereof. 
+
+I then tasked it to develop "aichessplayc v0r0b1"
+
+It immedately reverted back to building binaries from project-goal files 
+just as if we had not said a word about AITE. 
+
+Lesson: "old habits die hard".
