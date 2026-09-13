@@ -128,3 +128,16 @@ It immedately reverted back to building binaries from project-goal files
 just as if we had not said a word about AITE. 
 
 Lesson: "old habits die hard".
+
+Codex replies: 
+Yes. That section accurately captures the failure.
+
+The important point is that the spreadsheet artifacts were created, but I did not treat them as the controlling specification. 
+I reverted to the old
+workflow: interpret project prose, modify inherited code, and run tests. 
+That reproduced the very AITE process we had just identified.
+
+I would change “quick and dirty pseudocode implementation” to “quick and dirty pseudocode model,” 
+since the workbook was intended to precede implementation. Also, “worksheet pages” could be “worksheets.”
+ 
+...Just goes to show that at some point you have to kill the infection outright. 
