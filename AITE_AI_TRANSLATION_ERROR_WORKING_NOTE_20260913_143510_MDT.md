@@ -141,3 +141,8 @@ I would change “quick and dirty pseudocode implementation” to “quick and d
 since the workbook was intended to precede implementation. Also, “worksheet pages” could be “worksheets.”
  
 ...Just goes to show that at some point you have to kill the infection outright. 
+
+So I'm trying to get gpt to do this: 
+we're not proceeding with this locally. I want you to plan the project implementation on your side of the fence. I'm not sure what your token supply is right now, so I don't know how much time that you will have to work on it today. What I have asked of you in developing the AITE project at this point is just what codex chose to ignore. See if you can develop an Excel worksheet-style (or Matlab style) object-oriented algorithm...IN Matlab r2013+ this was easy enough to do because Matlab would "connect the dots" for contemporary matlab file / function i/o this may not require a fullblown spreadsheet/worksheet and that may not even work if Excel (actualy OpenOffice) cannot store clusters in individual cells. But I['m thinking that if we have a workbook for a project, then we have workbook pagents that can contain functions. and for the function i/o we can use individual cells. So the question is whether not the cells can either contain 2d data or contain 2- or 3-row (or column)  arrays as  pointers to the workbook, workpage, row and column of each data "parameter". i.e to workbook WKBKNAME, workpage 2D-ARRAY1, cell (A1) (or row A cell 1 for the top left corner of the data structure. But that doesn't include size or data type. From that I will leave it up to you to implement AITEgpt v0r0b1
+
+.... it looks like neither gpt nor codex will run for the next hour or so...
