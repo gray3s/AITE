@@ -183,7 +183,7 @@ That is deliberate. I translated your prose into the formal model, but I did not
 Otherwise I won't see what codex will do differently than gpt :)
 But I do think that it is time to swith to chatgptCLI if there is one, and that I do have to have the two cloud agents 
 develop in "seperate but equal" local trees. 
-But yesterday I seriously got tired of having to manually uplad files into gpt html.
+But yesterday I seriously got tired of having to manually upload files into gpt html.
 
 Here's the GPT implementation of AITE v0r0b1: 
 https://github.com/gray3s/AITE/blob/main/AITEgpt-v0r0b1.xlsx
